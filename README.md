@@ -1,2 +1,2 @@
-# applins server
+# applinks server
 save some json files.
