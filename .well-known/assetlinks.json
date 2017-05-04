@@ -33,5 +33,14 @@
     "sha256_cert_fingerprints":
     ["71:57:F7:A9:63:B3:89:DE:AD:FE:50:67:C6:F2:97:94:F2:89:62:1F:4E:E2:62:40:F8:DB:2C:EF:7F:2A:1C:BF"]
   }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.google.yuluo.myapplication",
+    "sha256_cert_fingerprints":
+    ["71:06:CB:26:F4:A6:4B:E1:6B:8B:41:22:F2:E8:90:5D:ED:EC:9E:F3:B8:9F:9F:1F:1E:F0:E6:98:01:46:7D:88"]
+  }
 }]
 
